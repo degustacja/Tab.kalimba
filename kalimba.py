@@ -17,3 +17,5 @@ with open('kalimba.txt', encoding = 'utf-8') as file:
 
 with open('kalimba2.txt', 'w', encoding='utf-8') as file:
     file.write(zawartosc)
+
+#test github
